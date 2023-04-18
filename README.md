@@ -40,6 +40,8 @@ Community Support Plugin: https://pub.dev/packages/wear
 ## Deployment
 
 ## Drawbacks
+![image](https://user-images.githubusercontent.com/110366216/232680071-3c980ee7-ea2d-479b-98df-e24cf28bbabd.png)
+
 
 ## Resources
 
