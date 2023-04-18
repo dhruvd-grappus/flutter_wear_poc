@@ -39,5 +39,10 @@ Community Support Plugin: https://pub.dev/packages/wear
 
 ## Deployment
 
+## Drawbacks
 
+## Resources
+
+- https://verygood.ventures/blog/building-wear-os-apps-with-flutter-a-very-good-guide
+- https://medium.com/flutter-community/flutter-building-wearos-app-fedf0f06d1b4
 
