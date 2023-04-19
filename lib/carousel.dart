@@ -15,26 +15,18 @@ class CarouselCircle extends StatelessWidget {
                 Container(
                   decoration: const BoxDecoration(
                       color: Colors.green, shape: BoxShape.circle),
-
-
                 ),
-                  Container(
+                Container(
                   decoration: const BoxDecoration(
                       color: Colors.red, shape: BoxShape.circle),
-
-
                 ),
-                 Container(
+                Container(
                   decoration: const BoxDecoration(
                       color: Colors.black, shape: BoxShape.circle),
-
-
                 ),
-                 Container(
+                Container(
                   decoration: const BoxDecoration(
                       color: Colors.yellow, shape: BoxShape.circle),
-
-
                 ),
               ],
             ),
